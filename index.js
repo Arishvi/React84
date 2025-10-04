@@ -1,4 +1,4 @@
-console.log('Hello World')
+// console.log('Hello World')
 
 //varibles
 
@@ -312,9 +312,42 @@ console.log('Hello World')
 // else if
 // nested else if
 
-if(10==='10'||20===20){
-    console.log('true')
+// if(10==='10'||20===20){
+//     console.log('true')
+// }
+
+// if(true){
+//     console.log('pass');  
+// }
+// else{
+//     console.log('fail');   
+// }
+
+
+// else if
+
+let data=prompt()
+
+// let data1=Number(data)
+// let password=1234
+
+if(1234==data){
+    // console.log('condition 1'); 
+    alert('condition 1')
 }
+else if(1235==data){
+    // console.log('condition 2 ') 
+        alert('condition 2')
+}
+else if(1256==data){
+//    console.log('condition 3');
+    alert('condition 3')
+}
+else{
+    // console.log('password incorrect'); 
+        alert('password incorrect')
+}
+
 
 
 
